@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salutation</title>
+</head>
+<body>
+
+    <label for="nomInput">Entrez votre nom : </label>
+    <input type="text" id="nomInput">
+    <button onclick="afficherBonjour()">Saluer</button>
+
+    <p id="message"></p>
+
+    <script>
+        function afficherBonjour() {
+            // Récupérer la valeur du champ de texte
+            var nom = document.getElementById("nomInput").value;
+
+            // Construire le message
+            var message = "Bonjour " + nom;
+
+            // Afficher le message dans la balise avec l'ID "message"
+            document.getElementById("message").textContent = message;
+        }
+    </script>
+
+</body>
+</html>
