@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/basic_cet_sismic/static/css/main.e6c13ad2.css",
+    "main.js": "/basic_cet_sismic/static/js/main.dcba6c46.js",
+    "static/js/453.d6cc0eab.chunk.js": "/basic_cet_sismic/static/js/453.d6cc0eab.chunk.js",
+    "index.html": "/basic_cet_sismic/index.html",
+    "main.e6c13ad2.css.map": "/basic_cet_sismic/static/css/main.e6c13ad2.css.map",
+    "main.dcba6c46.js.map": "/basic_cet_sismic/static/js/main.dcba6c46.js.map",
+    "453.d6cc0eab.chunk.js.map": "/basic_cet_sismic/static/js/453.d6cc0eab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.dcba6c46.js"
+  ]
+}
